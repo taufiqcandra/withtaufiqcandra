@@ -7,4 +7,3 @@ I'm a Tech Product Manager in Indonesia. Currently, I'm learning how to code. I 
 - 😀 In my free time, I enjoy reading and calculating Fibonacci series.
 - 💬 Feel free to ask me about fountain pens.
 - ⚡ Fun fact: I've completed 15 out of 24 books for this year's reading challenge (67% completion).
-
